@@ -1,0 +1,21 @@
+# Secrets
+.env
+
+# Runtime data
+data/
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Backups
+*-backup/
+
+# Termux / editor
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
